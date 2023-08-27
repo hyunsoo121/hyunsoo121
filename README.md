@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=HyunsooKim&fontColor=703ee5)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=HyunsooKim&fontColor=703ee5)
 <!--
 **hyunsoo121/hyunsoo121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
