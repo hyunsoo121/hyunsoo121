@@ -26,10 +26,6 @@ style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-%23E60000?logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-## 🔥 Github Stats
-
-[![hyunsoo121's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsoo121)](https://github.com/hyunsoo121/github-readme-stats)
-
 ## 🚀 Projects
 
 |     | 프로젝트     | 기간                    | 역할     | 기술 스택   | Repository                                   |
