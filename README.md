@@ -31,5 +31,5 @@ style=flat-square&logo=spring&logoColor=white"/>
 |     | 프로젝트     | 기간                    | 역할     | 기술 스택   | Repository                                   |
 | --- | ------------ | ----------------------- | -------- | ----------- | -------------------------------------------- |
 | 1   | TAXIROKA     | 2023.08.01 - 2023.08.22 | BE       | Django      | https://github.com/ROKATAXI/taxiRoka         |
-| 2   | Pironeer     | 2023.09.17 - 2024.10.07 | BE, 기획 | Node.js     | https://github.com/Pironeer-1/PiroSquare     |
-| 3   | PillEasyChat | 2024.03.15 ~            | BE, 기획 | Spring Boot | https://github.com/PillEasyChat/PillEasyChat |
+| 2   | Pironeer     | 2023.09.17 - 2024.10.07 | BE, 기획  | Node.js     | https://github.com/Pironeer-1/PiroSquare     |
+| 3   | PillEasyChat | 2024.03.15 ~ 2024.06.07 | BE, 기획  | Spring Boot | https://github.com/PillEasyChat/PillEasyChat |
